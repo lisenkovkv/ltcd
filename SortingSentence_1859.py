@@ -22,3 +22,15 @@ def sortSentence(s):
     
 #Runtime: 16 ms, faster than 76.34% of Python online submissions for Sorting the Sentence.
 #Memory Usage: 13.6 MB, less than 24.43% of Python online submissions for Sorting the Sentence.
+        
+        #arr = [i[-1] + i[:-1] for i in s.split()]
+        
+        #arr.sort()
+        
+        #ans = ""
+        #for i in arr:
+        #    ans += i[1:] + ' '
+        
+        #return ans[:-1]
+#Runtime: 20 ms, faster than 47.84% of Python online submissions for Sorting the Sentence.
+#Memory Usage: 13.4 MB, less than 94.66% of Python online submissions for Sorting the Sentence.
