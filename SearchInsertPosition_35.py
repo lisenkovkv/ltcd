@@ -12,6 +12,7 @@ def searchInsert(nums, target):
             else:
                 left = pivot + 1
         return left
+    
 #pivot = (left + right) // 2 :
 #Runtime: 48 ms, faster than 78.04% of Python3 online submissions for Search Insert Position.
 #Memory Usage: 15.1 MB, less than 56.08% of Python3 online submissions for Search Insert Position.
