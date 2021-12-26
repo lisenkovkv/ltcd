@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
+#array #string #simulation
 
 def finalValueAfterOperations(operations):
         """

@@ -1,4 +1,5 @@
 #https://leetcode.com/problems/letter-case-permutation/
+#string #backtracking #bit_manipulation
 
 def letterCasePermutation(s):
     #Approach #1: Recursion

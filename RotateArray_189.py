@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/rotate-array/
+#array #math #two_pointers
 
 def rotate(nums, k):
     """

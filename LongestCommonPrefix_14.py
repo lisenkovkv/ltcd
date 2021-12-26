@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/longest-common-prefix/
+#string
 
 def longestCommonPrefix(strs):
         l = list(zip(*strs))

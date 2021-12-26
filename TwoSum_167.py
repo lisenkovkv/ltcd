@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+# array #two_pointers #binary_search
 
 def twoSum(numbers, target):
     """

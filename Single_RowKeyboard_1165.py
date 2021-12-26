@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/single-row-keyboard/
+#hash_table #string
 
 def calculateTime(keyboard, word):
         """

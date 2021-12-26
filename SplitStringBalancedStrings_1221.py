@@ -1,4 +1,6 @@
 # https://leetcode.com/problems/split-a-string-in-balanced-strings/
+#string #greedy #counting
+
 from itertools import accumulate as acc
 
 def balancedStringSplit(s):

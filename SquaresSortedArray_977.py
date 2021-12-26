@@ -1,4 +1,5 @@
 #https://leetcode.com/problems/squares-of-a-sorted-array
+#array #two_pointers #sorting
 
 def sortedSquares(nums):
         """

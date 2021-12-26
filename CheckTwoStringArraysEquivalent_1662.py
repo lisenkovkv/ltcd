@@ -1,4 +1,5 @@
 #https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
+#array #string
 
 def arrayStringsAreEqual(word1, word2):
         """

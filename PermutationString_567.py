@@ -1,4 +1,5 @@
 #https://leetcode.com/problems/permutation-in-string/
+#hash_table #two_pointers #string #sliding_window
 
 def checkInclusion(s1, s2):
     """

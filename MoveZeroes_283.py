@@ -1,4 +1,5 @@
 #https://leetcode.com/problems/move-zeroes/
+#array #two_pointers
 
 def moveZeroes(nums):
     """

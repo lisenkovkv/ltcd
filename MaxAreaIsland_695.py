@@ -1,4 +1,5 @@
 #https://leetcode.com/problems/max-area-of-island/
+#array #DFS #BFS #union_find #matrix
 
 def maxAreaOfIsland(grid):
     """

@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/combinations/
+#array #backtracking
 
 def combine(n,k):
     #Approach 1: Backtracking

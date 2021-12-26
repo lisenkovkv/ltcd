@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/binary-search/
+#array #binary_search
 
 def search(nums, target):
         """

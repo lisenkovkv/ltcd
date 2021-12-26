@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/rotting-oranges/
+#array #BFS #matrix
 
 from collections import deque
 

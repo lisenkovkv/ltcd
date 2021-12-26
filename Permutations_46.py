@@ -1,4 +1,5 @@
 #https://leetcode.com/problems/permutations/
+#array #backtracking
 
 def permute(nums):
     #Approach 1: Backtracking

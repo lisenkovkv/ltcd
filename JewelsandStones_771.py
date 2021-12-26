@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/jewels-and-stones/
+#hash_table #string
 
 def numJewelsInStones(jewels, stones):
         #return sum(s in jewels for s in stones) #bruteforce

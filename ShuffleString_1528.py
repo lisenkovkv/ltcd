@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/shuffle-string/
+#array #string
 
 def restoreString(s, indices):
         """

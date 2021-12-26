@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/goal-parser-interpretation/
+#string
 
 def interpret(command):
     """

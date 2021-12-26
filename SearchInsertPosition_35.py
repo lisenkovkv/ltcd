@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/search-insert-position
+#array #binary_search
 
 def searchInsert(nums, target):
         left, right = 0, len(nums) - 1
